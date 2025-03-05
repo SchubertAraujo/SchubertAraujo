@@ -1,9 +1,12 @@
 ##  Olá eu sou o Schubert Araujo 👋
 
-<p align="justify">Sou apaixonado por tecnologia e games, desde que joguei o ATARI quando era bem novo. A paixão veio a se fortalecer em 94 quando usei um computador pela primeira vez, e aprendi sozinho a entrar em pastas, arquivos e jogos pelo MS-DOS.
-Nos anos 2000 criava sites com html puro como hobbys chegando até a começar a estudar asp.net, mas outras oportunidades foram aparecendo e deixei um pouco de lado a área. 
-Em 2007 voltei a faculdade e programo desde então. Programei em delphi e sql server com carteira assinada e posteriormente fiz alguns sistemas de gestão e atualmente me atualizei pra novas linguagens.
-Busco oportunidades para trabalho front end para experiência e tornar me fullstack no processo.<p>
+<p align="justify">Sou apaixonado por tecnologia e games desde cedo, começando com o Atari e, mais tarde, fortalecendo esse interesse em 1994, quando tive meu primeiro contato com um computador. Aprendi sozinho a navegar por pastas, arquivos e jogos no MS-DOS, o que despertou minha curiosidade pela programação.
+
+Nos anos 2000, comecei a criar sites em HTML puro como hobby e cheguei a estudar ASP.NET, mas segui por outros caminhos profissionais. Em 2007, retomei meus estudos na área e desde então atuo como desenvolvedor.
+
+Minha experiência inclui Delphi e SQL Server, trabalhando com desenvolvimento de sistemas de gestão. Com o tempo, me atualizei para novas tecnologias e, atualmente, estou focado em front-end, utilizando React, TypeScript, JavaScript, HTML e CSS.
+
+🎯 Objetivo: Busco oportunidades no desenvolvimento front-end para consolidar experiência e, futuramente, me tornar fullstack..<p>
 
 <hr>
   
