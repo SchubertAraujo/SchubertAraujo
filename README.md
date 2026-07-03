@@ -1,65 +1,195 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Schubert Araujo
 
-<p align="justify">
-Sou apaixonado por tecnologia e games desde cedo. Minha jornada começou com um Atari e ganhou força em 1994, quando tive meu primeiro contato com um computador. Aprendi de forma autodidata a explorar arquivos, diretórios e jogos no MS-DOS, despertando uma curiosidade que me acompanha até hoje.
+### Desenvolvedor Web • React • TypeScript • Node.js • Fundador da XBS Web Studio
 
-Nos anos 2000, comecei a desenvolver sites em HTML puro como hobby e também estudei ASP.NET. Em 2007, retomei meus estudos em desenvolvimento de software e iniciei minha atuação profissional na área.
+<p>
+Construindo sistemas web, sites e soluções personalizadas desde 2007.
+</p>
 
-Ao longo da minha carreira, desenvolvi sistemas de gestão utilizando Delphi e SQL Server, criando diversos sistemas próprios para pequenas empresas e adquirindo sólida experiência em análise, desenvolvimento e manutenção de software.
+<p>
+<a href="https://xbswebstudio.com.br">
+<img src="https://img.shields.io/badge/🌐%20Site-XBS%20Web%20Studio-158040?style=for-the-badge">
+</a>
 
-Hoje meu foco está no desenvolvimento web moderno, utilizando React, TypeScript, JavaScript, HTML, CSS e Node.js para construir aplicações performáticas, escaláveis e de fácil manutenção.
+<a href="https://www.linkedin.com/in/schubert-araujo/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-Também sou fundador da <strong>XBS Web Studio</strong>, onde desenvolvo sites institucionais, landing pages, sistemas web sob medida e integrações com APIs para empresas de diversos segmentos, sempre priorizando qualidade, performance, SEO e experiência do usuário.
+<a href="https://www.linkedin.com/company/xbs-webstudio/">
+<img src="https://img.shields.io/badge/LinkedIn-XBS%20Web%20Studio-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.instagram.com/xbswebstudio/">
+<img src="https://img.shields.io/badge/Instagram-XBS_Web_Studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 Sobre mim
+
+Sou apaixonado por tecnologia desde criança.
+
+Minha jornada começou com um Atari e ganhou força em 1994 quando tive meu primeiro computador. Aprendi de forma autodidata utilizando o MS-DOS, explorando diretórios, arquivos e jogos, o que despertou meu interesse pela programação.
+
+Nos anos 2000 comecei a desenvolver sites utilizando HTML puro e posteriormente estudei ASP.NET.
+
+Em 2007 iniciei minha trajetória profissional como desenvolvedor, trabalhando com Delphi e SQL Server no desenvolvimento de sistemas de gestão empresarial.
+
+Ao longo da carreira desenvolvi diversos sistemas próprios para pequenas empresas, adquirindo experiência em análise de requisitos, modelagem de banco de dados, desenvolvimento e manutenção de software.
+
+Hoje atuo principalmente com desenvolvimento Web utilizando React, TypeScript, JavaScript, Node.js, HTML e CSS.
+
+Também sou fundador da **XBS Web Studio**, onde desenvolvo:
+
+- 🌐 Sites Institucionais
+- ⚙️ Sistemas Web
+- 📱 Landing Pages
+- 🔗 Integrações com APIs
+- 🚀 Soluções personalizadas para empresas
+
+---
+
+# 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,npm"/>
 
 </p>
 
 ---
 
-## 🚀 Tecnologias
+# 💼 O que desenvolvo
 
-<div align="justify">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
-</div>
+✅ Sistemas Administrativos
 
----
+✅ Sistemas Web
 
-## 🌐 Contatos
+✅ Landing Pages
 
-<div>
+✅ Sites Institucionais
 
-<a href="mailto:xubsoldier@gmail.com">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+✅ Dashboards
 
-<a href="https://www.linkedin.com/in/schubert-araujo/" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/LinkedIn%20(Pessoal)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+✅ APIs REST
 
-<a href="https://www.linkedin.com/company/xbs-webstudio/" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/XBS%20Web%20Studio-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/xbswebstudio/" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://xbswebstudio.com.br/" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/Site-XBS%20Web%20Studio-158040?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-</div>
+✅ Integrações
 
 ---
 
-## 📊 Estatísticas
+# 📌 Projetos em destaque
 
-<div>
-<a href="https://github.com/schubertaraujo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=schubertaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+### 🧠 Conectamente
+
+Sistema administrativo para aplicação e gerenciamento de avaliações psicológicas PROART.
+
+**Stack**
+
+- React
+- Node.js
+- Prisma
+- PostgreSQL
+- JWT
+
+---
+
+### 🚌 Sistema Escolar
+
+Sistema para transporte escolar com:
+
+- Cadastro de Motoristas
+- Cadastro de Alunos
+- Controle de Presença
+- Mensalidades
+- Escolas
+- Área do Responsável
+
+---
+
+### 🌐 XBS Web Studio
+
+Desenvolvimento de sites, landing pages e sistemas personalizados.
+
+https://xbswebstudio.com.br
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=schubertaraujo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schubertaraujo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=schubertaraujo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=schubertaraujo&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# 📈 Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=schubertaraujo&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Vamos conversar
+
+📧 **E-mail**
+
+**xubsoldier@gmail.com**
+
+🌐 **Site**
+
+https://xbswebstudio.com.br
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/schubert-araujo
+
+🏢 **LinkedIn da Empresa**
+
+https://linkedin.com/company/xbs-webstudio
+
+📷 **Instagram**
+
+https://instagram.com/xbswebstudio
+
+---
+
+<div align="center">
+
+### "Transformando ideias em soluções web."
+
+⭐ Obrigado por visitar meu perfil!
+
 </div>
